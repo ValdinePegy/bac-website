@@ -1,0 +1,282 @@
+{
+  "about": {
+      "title": "À propos de BAC",
+      "intro": "BUSINESS & ADVICE CONSULTANTS SARL, Cabinet d’expertise, d’audit et Centre de Gestion Agréé, enregistré sous le numéro 0000762/MINFI/DGI/LRI/CSR du 30 septembre 2024.",
+      "description": "BAC est une entité spécialisée dans les prestations de services intellectuels. Elle a été créée par plusieurs experts qualifiés ayant plus de vingt ans d’expérience professionnelle dans les grands cabinets, les entreprises nationales et multinationales installées au Cameroun.",
+      "cga": {
+        "title": "Qu'est-ce qu'un Centre de Gestion Agréé (CGA) ?",
+        "description": "Un Centre de Gestion Agréé (CGA) est un organisme fournissant une aide technique aux entreprises industrielles, commerciales, artisanales et agricoles.",
+        "points": [
+          "Aide à la gestion et prévention des difficultés économiques et financières",
+          "Assistance et prévention fiscales",
+          "Formation et accompagnement comptable",
+          "Les entreprises éligibles au CGA paient 50% moins d’impôts"
+        ]
+      },
+      "availability": "BAC et ses collaborateurs sont disponibles 24 heures/24 pour assister leurs clients sous la supervision de Jean TCHINDA.",
+      "mission": {
+        "title": "Notre Mission",
+        "description": "Notre mission consiste à augmenter la valeur ajoutée des clients qui nous font confiance, de contribuer à la maîtrise des risques et à l’amélioration des performances de leurs activités."
+      },
+      "vision": {
+        "title": "Notre Vision",
+        "description": "Nous voulons voir les opérateurs économiques travailler en toute sérénité fiscale et juridique, plutôt que de négocier pour éviter les tracasseries. C’est pourquoi nous investissons du temps à bien connaître nos clients dès qu’ils nous font confiance."
+      },
+      "team": {
+        "title": "Notre Équipe",
+        "description": "Notre force réside dans notre individualité. Autour de M. TCHINDA Jean, l'équipe s'efforce de s'entourer des meilleurs experts en comptabilité, fiscalité, droit et finances."
+      },
+      "contact": {
+        "title": "Contact",
+        "manager": {
+          "name": "Jean TCHINDA",
+          "role": "Spécialiste en comptabilité et finance",
+          "certifications": "Conseil-Fiscal Agréé CEMAC S/N° 395, inscrit à l’ONCFC S/N° 24 204",
+          "email": ["jean.tchinda@bac-cm.com", "jeantchinda76@gmail.com"],
+          "phone": "+237 677 98 44 45 / 693 82 41 29"
+        },
+        "office": {
+          "address": "Feu Rouge BESSINGUE, entre MUPECI et Pharmacie MONDIALE DEIDO-DOUALA",
+          "general_email": "advice@bac-cm.com",
+          "phone": "+237 621 81 25 22"
+        }
+      }
+    },
+    "home": {
+      "title": "Bienvenue chez BAC",
+      "description": "BUSINESS & ADVICE CONSULTANTS en abrégé « BAC » est un cabinet d’expertise, d’audit et un Centre de Gestion Agrée.",
+      "license": "Sous le numéro 0000762/MINFI/DGI/LRI/CSR du 30 septembre 2024",
+      "location": "Situé au Feu Rouge BESSINGUE entre MUPECI et Pharmacie MONDIALE DEIDO-DOUALA",
+      "contact": {
+        "phone": "Tél. : +237 677 98 44 45 / 693 82 41 29",
+        "email": "E-mail : advice@bac-cm.com"
+      },
+      "slogan": "Notre expérience au service de la qualité pour votre confiance renouvelée.",
+      "services": {
+        "title": "Nos Services",
+        "description": "Offre une gamme complète de services aux entreprises ainsi qu’aux organismes et institutions publiques.",
+        "fiscal": "Conseil Fiscal",
+        "legal": "Conseil Juridique",
+        "audit": "Audit et Commissariat aux Comptes",
+        "training": "Formation et Connaissance"
+      },
+      "specialties": {
+        "title": "Nos Domaines d’Expertise",
+        "description": "Notre entité est constituée des métiers autonomes ci-après :",
+        "accounting": "Expertise comptable et commissariat aux comptes",
+        "taxation": "Fiscalité",
+        "business_law": "Droit des Affaires",
+        "legal_secretariat": "Secrétariat Juridique",
+        "expatriate_management": "Gestion d’expatriés",
+        "governance": "Gouvernance et optimisation"
+      },
+      "details": {
+        "fiscal_advice": {
+          "title": "Conseil Fiscal",
+          "points": [
+            "Optimisation Fiscale : aider les clients à minimiser leur charge fiscale tout en respectant les lois en vigueur.",
+            "Planification fiscale : élaborer des stratégies pour gérer les obligations fiscales futures.",
+            "Gestion des déclarations fiscales : préparation et soumission des déclarations d'impôts."
+          ]
+        },
+        "legal_advice": {
+          "title": "Conseil Juridique",
+          "points": [
+            "Droit des sociétés : création, fusion, acquisition et liquidation d'entreprises.",
+            "Contrats : rédaction et analyse de contrats commerciaux, de travail, de partenariat, etc.",
+            "Contentieux : représentation des clients dans les litiges fiscaux et juridiques."
+          ]
+        },
+        "audit": {
+          "title": "Audit et Commissariat aux Comptes",
+          "points": [
+            "Contrôle des comptes :",
+            "- Rapport général et spécial",
+            "- Compte rendu aux associés/actionnaires"
+          ]
+        }
+      },
+      "cta": {
+        "contact": "Contactez-nous",
+        "appointment": "Prendre un rendez-vous"
+      }
+    },
+      "assistance_permanente": {
+        "title": "Assistance Permanente",
+        "accounting": {
+          "title": "Travaux de Comptabilité",
+          "items": [
+            "Imputation des pièces comptables",
+            "Saisie et enregistrement des pièces comptables",
+            "Mise en place des fichiers extra comptables (suivi des immobilisations, suivi de la production, calcul des coûts et coûts de revient, etc.)",
+            "Établissement des rapprochements bancaires",
+            "Établissement des échelles d’intérêts bancaires",
+            "Révision des comptes trimestriels",
+            "Élaboration des états comptables trimestriels",
+            "Rattrapage de la comptabilité",
+            "Assistance aux inventaires et arrêtés de caisse",
+            "Élaboration et montage de la Déclaration Statistique et Fiscale (DSF)"
+          ]
+        },
+        "employment": {
+          "title": "Travaux Liés à L’Emploi",
+          "items": [
+            "Établissement des fiches ou bulletins de paie du personnel",
+            "Établissement et déclarations des cotisations sociales mensuelles et annuelles",
+            "Assistance au contrôle des services de la prévoyance sociale",
+            "Assistance au contrôle des services de la sécurité sociale",
+            "Conseil en droit du travail (recrutement, licenciement, mise à disposition du personnel, etc.)"
+          ]
+        },
+        "tax": {
+          "title": "Travaux de Fiscalité",
+          "items": [
+            "Répondre aux questions orales ou écrites en matière de fiscalité",
+            "Établissement des déclarations fiscales mensuelles, périodiques et annuelles",
+            "Optimisation fiscale (émission d’avis fiscaux sur les opérations envisagées)",
+            "Gestion fiscale des étrangers"
+          ]
+        },
+        "legal": {
+          "title": "Travaux Juridiques",
+          "assistance": {
+            "title": "Assistance Juridique",
+            "items": [
+              "Réponses aux questions orales et écrites en matière de législation",
+              "Consultations juridiques sur le Droit des Affaires (Droit des Sociétés, Droit Social, Droit des Contrats)"
+            ]
+          },
+          "secretariat": {
+            "title": "Secrétariat Juridique",
+            "items": [
+              "Rédaction des Procès-Verbaux des Conseils d’Administration et Assemblées Générales (ordinaire et extraordinaire)",
+              "Rédaction des rapports de CAC (rapport général et rapport spécial, compte rendu, etc.)",
+              "Accomplissement des formalités légales"
+            ]
+          }
+        },
+        "management_center": {
+          "title": "Centre de Gestion Agréé",
+          "items": [
+            "Inscriptions des adhérents",
+            "Transmission des dossiers à la DGI",
+            "Tenue de la comptabilité sur demande",
+            "Déclaration des impôts sur demande",
+            "Fourniture d’autres services sur demande"
+          ]
+        },
+        "non_residents": {
+          "title": "Gestion des Non-Résidents",
+          "items": [
+            "Rédaction du contrat de travail des étrangers",
+            "Formalités d’obtention du visa et carte de séjour",
+            "Déclaration fiscale annuelle des revenus des étrangers"
+          ]
+        }
+      },
+        "assistance_ponctuelle": {
+          "title": "Assistance Ponctuelle",
+          "annual_tax_regulation": {
+            "title": "Régularisation Fiscale et Sociale Annuelle sur Salaire",
+            "items": [
+              "Revue annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
+              "Revue annuelle du respect des obligations fiscales et sociales de l’employeur",
+              "Vérification des méthodes de calcul des retenues sur salaires",
+              "Vérification du régime fiscal et social des majorations accessoires sur salaires",
+              "Vérification du traitement fiscal et social des avantages en nature, frais professionnels ou indemnités"
+            ]
+          },
+          "dsf_tax_review": {
+            "title": "Revue Fiscale de la DSF",
+            "items": [
+              "Analyse et vérification du tableau des immobilisations et des provisions",
+              "Bouclage de la TVA en fin d’exercice",
+              "Vérification de la liquidation correcte des prélèvements et exploitation des avantages fiscaux",
+              "Contrôle de l’apurement des dettes de l’entreprise",
+              "Identification des risques fiscaux et recommandations",
+              "Optimisation des économies d’impôts adaptées aux particularités de l’entreprise"
+            ]
+          },
+          "foreign_exchange": {
+            "title": "Assistance en Matière de Change",
+            "items": [
+              "Assistance pour les opérations financières (capitaux étrangers, apurement des DI-SGS)",
+              "Accompagnement pour les opérations d’importation et d’exportation",
+              "Assistance au contrôle des services de douanes",
+              "Aide au transfert des salaires des salariés étrangers",
+              "Support au contrôle des changes (Ministère des Finances et BEAC)",
+              "Accompagnement pour le transfert des revenus locatifs"
+            ]
+          },
+          "agency_services": {
+            "title": "Assistance en Matière d’Agence",
+            "items": [
+              "Mise en place des procédures de contrôle interne pour prévenir les fraudes",
+              "Optimisation de la répartition des rôles entre les organes de gestion",
+              "Clarification des fonctions des membres du Conseil d’Administration",
+              "Propositions pour résoudre les conflits d’intérêts",
+              "Définition des règles pour la transparence des rémunérations des dirigeants",
+              "Renforcement des pouvoirs des actionnaires minoritaires",
+              "Participation des salariés à la gouvernance de l’entreprise"
+            ]
+          },
+          "transfer_pricing": {
+            "title": "Assistance en Matière de Prix de Transfert",
+            "items": [
+              "Mise en place de votre politique de prix",
+              "Sécurisation juridique des prix (accord préalable de prix de transfert, accord bilatéral ou unilatéral)",
+              "Aide à la documentation justificative des prix de transfert",
+              "Accompagnement lors des contrôles fiscaux",
+              "Dialogue avec l’Administration Fiscale pour limiter les conséquences",
+              "Procédure amiable ou arbitrage pour éviter la double imposition en cas de redressement"
+            ]
+          },
+          "tax_disputes": {
+            "title": "Assistance aux Contrôle et Contentieux Fiscaux",
+            "pieces_control": {
+              "title": "Contrôle sur Pièces",
+              "items": [
+                "Analyse de la pertinence de la procédure de contrôle sur pièces",
+                "Évaluation des demandes d’éclaircissements et justifications",
+                "Élimination du risque fiscal probant"
+              ]
+            },
+            "onsite_control": {
+              "title": "Contrôle sur Place",
+              "items": [
+                "Préparation et suivi du contrôle fiscal",
+                "Organisation et encadrement des équipes comptables",
+                "Assistance lors des opérations de vérification sur place",
+                "Adaptation aux évolutions du contrôle",
+                "Présentation des choix fiscaux à l’Administration",
+                "Évaluation des risques fiscaux latents"
+              ]
+            },
+            "administrative_procedure": {
+              "title": "Suivi de la Procédure Administrative",
+              "items": [
+                "Proposition de solutions et préparation des réponses aux observations suite aux notifications de redressement",
+                "Analyse de la pertinence des points relevés par l’Inspecteur des Impôts",
+                "Rédaction des réponses aux chefs de redressements envisagés",
+                "Assistance dans le cadre des procédures contradictoires en entreprise et au Centre des Impôts avant la notification définitive"
+              ]
+            },
+            "preliminary_appeal": {
+              "title": "Recours Préalable devant l’Administration",
+              "items": [
+                "Suivi du contentieux devant la Direction Générale des Impôts (DGI)",
+                "Suivi du contentieux devant le Ministère des Finances (MINFI)",
+                "Procédure de transaction fiscale devant les Services des Impôts le cas échéant (Art.L125 du LPF du CAMEROUN)"
+              ]
+            },
+            "judicial_appeal": {
+              "title": "Recours Contentieux devant la Chambre Administrative",
+              "items": [
+                "Saisine du Tribunal Administratif",
+                "Représentation et suivi de la procédure devant le Tribunal Administratif",
+                "Etc..."
+              ]
+            }
+          }
+        }
+      }   

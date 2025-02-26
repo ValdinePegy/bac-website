@@ -1,0 +1,282 @@
+{
+    "about": {
+      "title": "About BAC",
+      "intro": "BUSINESS & ADVICE CONSULTANTS SARL, an auditing, consulting, and Approved Management Center, registered under number 0000762/MINFI/DGI/LRI/CSR on September 30, 2024.",
+      "description": "BAC specializes in intellectual service delivery. It was founded by highly qualified experts with over twenty years of professional experience in major firms, national and multinational companies operating in Cameroon.",
+      "cga": {
+        "title": "What is an Approved Management Center (CGA)?",
+        "description": "An Approved Management Center (CGA) provides technical assistance to industrial, commercial, artisanal, and agricultural businesses.",
+        "points": [
+          "Assists in financial and economic risk prevention",
+          "Provides tax assistance and compliance support",
+          "Offers training and accounting support",
+          "Eligible companies pay 50% less in taxes"
+        ]
+      },
+      "availability": "BAC and its team are available 24/7 to assist clients under the supervision of Jean TCHINDA.",
+      "mission": {
+        "title": "Our Mission",
+        "description": "Our mission is to increase the added value of our trusted clients, contribute to risk management, and enhance the performance of their businesses."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "We want to help economic operators work with tax and legal peace of mind, rather than negotiating to avoid complications. This is why we take the time to know our clients well once they place their trust in us."
+      },
+      "team": {
+        "title": "Our Team",
+        "description": "Our strength lies in our individuality. Led by Mr. Jean TCHINDA, our team includes top experts in accounting, taxation, law, and finance."
+      },
+      "contact": {
+        "title": "Contact",
+        "manager": {
+          "name": "Jean TCHINDA",
+          "role": "Specialist in Accounting and Finance",
+          "certifications": "CEMAC Licensed Tax Consultant S/N° 395, registered with ONCFC S/N° 24 204",
+          "email": ["jean.tchinda@bac-cm.com", "jeantchinda76@gmail.com"],
+          "phone": "+237 677 98 44 45 / 693 82 41 29"
+        },
+        "office": {
+          "address": "Feu Rouge BESSINGUE, between MUPECI and Pharmacie MONDIALE DEIDO-DOUALA",
+          "general_email": "advice@bac-cm.com",
+          "phone": "+237 621 81 25 22"
+        }
+      }
+    },
+    "home": {
+      "title": "Welcome to BAC",
+      "description": "BUSINESS & ADVICE CONSULTANTS, abbreviated as 'BAC,' is an expert consulting, auditing, and management firm.",
+      "license": "Registered under number 0000762/MINFI/DGI/LRI/CSR on September 30, 2024",
+      "location": "Located at Feu Rouge BESSINGUE between MUPECI and Pharmacie MONDIALE DEIDO-DOUALA",
+      "contact": {
+        "phone": "Phone: +237 677 98 44 45 / 693 82 41 29",
+        "email": "Email: advice@bac-cm.com"
+      },
+      "slogan": "Our experience in service quality for your renewed trust.",
+      "services": {
+        "title": "Our Services",
+        "description": "Offers a full range of services to businesses as well as public organizations and institutions.",
+        "fiscal": "Tax Consulting",
+        "legal": "Legal Consulting",
+        "audit": "Audit and Financial Review",
+        "training": "Training and Knowledge"
+      },
+      "specialties": {
+        "title": "Our Areas of Expertise",
+        "description": "Our entity is composed of the following independent professions:",
+        "accounting": "Accounting and Auditing",
+        "taxation": "Taxation",
+        "business_law": "Business Law",
+        "legal_secretariat": "Legal Secretariat",
+        "expatriate_management": "Expatriate Management",
+        "governance": "Governance and Optimization"
+      },
+      "details": {
+        "fiscal_advice": {
+          "title": "Tax Consulting",
+          "points": [
+            "Tax Optimization: Helping clients minimize their tax burden while complying with the law.",
+            "Tax Planning: Developing strategies to manage future tax obligations.",
+            "Tax Filing Management: Preparing and submitting tax returns."
+          ]
+        },
+        "legal_advice": {
+          "title": "Legal Consulting",
+          "points": [
+            "Corporate Law: Company creation, mergers, acquisitions, and liquidation.",
+            "Contracts: Drafting and reviewing commercial, employment, and partnership contracts.",
+            "Litigation: Representing clients in tax and legal disputes."
+          ]
+        },
+        "audit": {
+          "title": "Audit and Financial Review",
+          "points": [
+            "Account Controls:",
+            "- General and Special Reports",
+            "- Reports to partners/shareholders"
+          ]
+        }
+      },
+      "cta": {
+        "contact": "Contact Us",
+        "appointment": "Book an Appointment"
+      }
+    },
+      "assistance_permanente": {
+        "title": "Permanent Assistance",
+        "accounting": {
+          "title": "Accounting Work",
+          "items": [
+            "Accounting entry processing",
+            "Recording and bookkeeping",
+            "Setting up extra-accounting files (asset tracking, cost calculation, etc.)",
+            "Bank reconciliations",
+            "Establishment of interest rate schedules",
+            "Quarterly account reviews",
+            "Preparation of quarterly financial statements",
+            "Accounting recovery",
+            "Inventory and cash count assistance",
+            "Preparation and submission of the Statistical and Tax Declaration (DSF)"
+          ]
+        },
+        "employment": {
+          "title": "Employment-related Work",
+          "items": [
+            "Payroll processing",
+            "Monthly and annual social contribution declarations",
+            "Assistance with social security audits",
+            "Assistance with employment regulations",
+            "Labor law consulting (recruitment, dismissal, personnel management, etc.)"
+          ]
+        },
+        "tax": {
+          "title": "Tax Work",
+          "items": [
+            "Answering oral and written tax questions",
+            "Preparation of monthly, periodic, and annual tax returns",
+            "Tax optimization (advising on planned operations and decisions)",
+            "Tax management for foreigners"
+          ]
+        },
+        "legal": {
+          "title": "Legal Work",
+          "assistance": {
+            "title": "Legal Assistance",
+            "items": [
+              "Answers to oral and written legal questions",
+              "Legal consultations on Business Law (Corporate Law, Social Law, Contract Law)"
+            ]
+          },
+          "secretariat": {
+            "title": "Legal Secretariat",
+            "items": [
+              "Drafting minutes of Board of Directors and General Meetings (ordinary and extraordinary)",
+              "Drafting reports for Auditors (general and special reports, meeting summaries, etc.)",
+              "Completion of legal formalities"
+            ]
+          }
+        },
+        "management_center": {
+          "title": "Approved Management Center",
+          "items": [
+            "Membership registrations",
+            "Transmission of files to the DGI",
+            "Bookkeeping on request",
+            "Tax filing on request",
+            "Providing additional services upon request"
+          ]
+        },
+        "non_residents": {
+          "title": "Non-Resident Management",
+          "items": [
+            "Drafting employment contracts for foreigners",
+            "Visa and residence permit formalities",
+            "Annual tax declaration for foreign income"
+          ]
+        }
+      },
+        "assistance_ponctuelle": {
+          "title": "Occasional Assistance",
+          "annual_tax_regulation": {
+            "title": "Annual Tax and Social Regularization on Salaries",
+            "items": [
+              "Annual payroll review, regularization of taxes, levies, and social contributions",
+              "Annual review of employer compliance with tax and social obligations",
+              "Verification of payroll deduction calculation methods",
+              "Verification of the tax and social treatment of salary-related benefits",
+              "Ensuring compliance with fiscal and social obligations regarding payroll"
+            ]
+          },
+          "dsf_tax_review": {
+            "title": "DSF Tax Review",
+            "items": [
+              "Analysis and verification of the asset and provision table",
+              "Final reconciliation of VAT at year-end",
+              "Ensuring proper tax deductions and optimizing available tax benefits",
+              "Controlling the settlement of corporate debts",
+              "Highlighting tax risks based on provided documents and issuing recommendations",
+              "Identifying potential tax savings through optimal use of applicable tax regulations"
+            ]
+          },
+          "foreign_exchange": {
+            "title": "Foreign Exchange Assistance",
+            "items": [
+              "Assistance with financial transactions (foreign capital inflows, DI-SGS clearance)",
+              "Support in import and export operations",
+              "Assistance with customs audits",
+              "Guidance on the transfer of foreign employee salaries",
+              "Compliance support for foreign exchange controls (Ministry of Finance and BEAC)",
+              "Assistance with transferring rental income abroad"
+            ]
+          },
+          "agency_services": {
+            "title": "Corporate Governance Assistance",
+            "items": [
+              "Implementation of internal control procedures to prevent fraud in accounting and financial management",
+              "Optimization of the division of roles between different governance bodies",
+              "Clarification of the functions of Board of Directors' members",
+              "Recommendations on measures and rules for managing conflicts of interest",
+              "Establishing rules for transparency in executive compensation",
+              "Strengthening minority shareholder rights",
+              "Encouraging employee participation in corporate governance"
+            ]
+          },
+          "transfer_pricing": {
+            "title": "Transfer Pricing Assistance",
+            "items": [
+              "Implementation of a corporate transfer pricing policy",
+              "Providing legal security for pricing agreements (advance pricing agreement, bilateral or unilateral agreements)",
+              "Assistance in preparing transfer pricing documentation",
+              "Support during tax audits focused on transfer pricing",
+              "Engaging in dialogue with tax authorities to mitigate potential tax risks",
+              "Negotiating amicable resolutions or arbitration to avoid double taxation in case of tax adjustments"
+            ]
+          },
+          "tax_disputes": {
+            "title": "Tax Control and Dispute Assistance",
+            "pieces_control": {
+              "title": "Desk Audit Assistance",
+              "items": [
+                "Analysis of the validity of desk audit procedures",
+                "Review of requested clarifications and justifications",
+                "Minimization of potential tax risks"
+              ]
+            },
+            "onsite_control": {
+              "title": "On-Site Tax Audit Assistance",
+              "items": [
+                "Preparation and organization of tax audits",
+                "Structuring and managing accounting teams for audit readiness",
+                "Support for companies during on-site tax inspections",
+                "Adapting tax defense strategies according to audit developments",
+                "Presentation and justification of company tax positions to authorities",
+                "Assessment of financial risks related to tax liabilities"
+              ]
+            },
+            "administrative_procedure": {
+              "title": "Administrative Tax Procedure Support",
+              "items": [
+                "Proposing solutions and preparing responses to preliminary tax adjustment notices",
+                "Assessing the validity of points raised by tax authorities",
+                "Drafting responses to tax adjustments considered by the tax administration",
+                "Assisting with tax dispute procedures in company offices and at the Tax Center before final tax adjustments"
+              ]
+            },
+            "preliminary_appeal": {
+              "title": "Preliminary Appeal before Tax Administration",
+              "items": [
+                "Managing tax disputes before the Directorate General of Taxes (DGI)",
+                "Handling tax disputes before the Ministry of Finance (MINFI)",
+                "Tax settlement negotiations before the tax authorities if necessary (Art.L125 of Cameroon’s Tax Code)"
+              ]
+            },
+            "judicial_appeal": {
+              "title": "Judicial Tax Litigation Assistance",
+              "items": [
+                "Filing appeals before the Administrative Court",
+                "Legal representation and case follow-up",
+                "Etc..."
+              ]
+            }
+          }
+        }      
+      } 
