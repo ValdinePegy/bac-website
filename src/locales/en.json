@@ -57,18 +57,18 @@
         "description": "Offers a full range of services to businesses as well as public organizations and institutions.",
         "fiscal": "Tax Consulting",
         "legal": "Legal Consulting",
-        "audit": "Audit and Financial Review",
+        "audit": "Audit and Financial Review in Partnership",
         "training": "Training and Knowledge"
       },
       "specialties": {
         "title": "Our Areas of Expertise",
         "description": "Our entity is composed of the following independent professions:",
-        "accounting": "Accounting and Auditing",
+        "accounting": "Accounting and Audit",
         "taxation": "Taxation",
         "business_law": "Business Law",
         "legal_secretariat": "Legal Secretariat",
-        "expatriate_management": "Expatriate Management",
-        "governance": "Governance and Optimization"
+        "expatriate_management": "Non-residents Management",
+        "governance": "Management and Optimization"
       },
       "details": {
         "fiscal_advice": {
@@ -88,7 +88,7 @@
           ]
         },
         "audit": {
-          "title": "Audit and Financial Review",
+          "title": "Audit and Financial Review in Partnership",
           "points": [
             "Account Controls:",
             "- General and Special Reports",
@@ -119,7 +119,7 @@
           ]
         },
         "employment": {
-          "title": "Employment-related Work",
+          "title": "Social Work",
           "items": [
             "Payroll processing",
             "Monthly and annual social contribution declarations",
@@ -209,7 +209,7 @@
             ]
           },
           "agency_services": {
-            "title": "Corporate Governance Assistance",
+            "title": "Management Assistance",
             "items": [
               "Implementation of internal control procedures to prevent fraud in accounting and financial management",
               "Optimization of the division of roles between different governance bodies",

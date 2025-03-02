@@ -57,18 +57,18 @@
         "description": "Offre une gamme complète de services aux entreprises ainsi qu’aux organismes et institutions publiques.",
         "fiscal": "Conseil Fiscal",
         "legal": "Conseil Juridique",
-        "audit": "Audit et Commissariat aux Comptes",
-        "training": "Formation et Connaissance"
+        "audit": "Audit et Commissariat aux Comptes en partenariat",
+        "training": "Formation et Connaissances"
       },
       "specialties": {
         "title": "Nos Domaines d’Expertise",
         "description": "Notre entité est constituée des métiers autonomes ci-après :",
-        "accounting": "Expertise comptable et commissariat aux comptes",
+        "accounting": "Expertise comptable et Audit",
         "taxation": "Fiscalité",
         "business_law": "Droit des Affaires",
         "legal_secretariat": "Secrétariat Juridique",
-        "expatriate_management": "Gestion d’expatriés",
-        "governance": "Gouvernance et optimisation"
+        "expatriate_management": "Gestion des non-residents",
+        "governance": "Management et optimisation"
       },
       "details": {
         "fiscal_advice": {
@@ -88,7 +88,7 @@
           ]
         },
         "audit": {
-          "title": "Audit et Commissariat aux Comptes",
+          "title": "Audit et Commissariat aux Comptes en Partenariat",
           "points": [
             "Contrôle des comptes :",
             "- Rapport général et spécial",
@@ -119,7 +119,7 @@
           ]
         },
         "employment": {
-          "title": "Travaux Liés à L’Emploi",
+          "title": "Travaux Sociaux",
           "items": [
             "Établissement des fiches ou bulletins de paie du personnel",
             "Établissement et déclarations des cotisations sociales mensuelles et annuelles",
@@ -209,7 +209,7 @@
             ]
           },
           "agency_services": {
-            "title": "Assistance en Matière d’Agence",
+            "title": "Assistance en Management",
             "items": [
               "Mise en place des procédures de contrôle interne pour prévenir les fraudes",
               "Optimisation de la répartition des rôles entre les organes de gestion",
