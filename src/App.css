@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.transition {
+  transition: all 0.3s ease;
+}
+.hover\:shadow-lg:hover {
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+}
+

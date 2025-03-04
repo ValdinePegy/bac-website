@@ -1,4 +1,10 @@
 {
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "permanent_assistance": "Assistance Permanente",
+    "temporary_assistance": "Assistance Ponctuelle"
+  },
   "about": {
       "title": "À propos de BAC",
       "intro": "BUSINESS & ADVICE CONSULTANTS SARL, Cabinet d’expertise, d’audit et Centre de Gestion Agréé, enregistré sous le numéro 0000762/MINFI/DGI/LRI/CSR du 30 septembre 2024.",
@@ -42,7 +48,8 @@
       }
     },
     "home": {
-      "title": "Bienvenue chez BAC",
+      "welcome_message": "Bienvenue chez BAC",
+      "subtext": "Votre partenaire de confiance pour la comptabilité et la finance.",
       "description": "BUSINESS & ADVICE CONSULTANTS en abrégé « BAC » est un cabinet d’expertise, d’audit et un Centre de Gestion Agrée.",
       "license": "Sous le numéro 0000762/MINFI/DGI/LRI/CSR du 30 septembre 2024",
       "location": "Situé au Feu Rouge BESSINGUE entre MUPECI et Pharmacie MONDIALE DEIDO-DOUALA",

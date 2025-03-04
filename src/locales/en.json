@@ -1,4 +1,10 @@
 {
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "permanent_assistance": "Permanent Assistance",
+    "temporary_assistance": "Temporary Assistance"
+  },
     "about": {
       "title": "About BAC",
       "intro": "BUSINESS & ADVICE CONSULTANTS SARL, an auditing, consulting, and Approved Management Center, registered under number 0000762/MINFI/DGI/LRI/CSR on September 30, 2024.",
@@ -42,7 +48,8 @@
       }
     },
     "home": {
-      "title": "Welcome to BAC",
+      "welcome_message": "Welcome to BAC",
+      "subtext": "Your trusted partner for accounting and finance.",
       "description": "BUSINESS & ADVICE CONSULTANTS, abbreviated as 'BAC,' is an expert consulting, auditing, and management firm.",
       "license": "Registered under number 0000762/MINFI/DGI/LRI/CSR on September 30, 2024",
       "location": "Located at Feu Rouge BESSINGUE between MUPECI and Pharmacie MONDIALE DEIDO-DOUALA",
