@@ -28,16 +28,33 @@ const ServicesSection = () => {
       key: "training",
       icon: "🎓",
       bgColor: "bg-purple-100",
-      description: [t("Offre des formations dans le domaine")]
+      description: ["Offre des formations dans le domaine"]
     }
   ];
+
+  const renderList = (items) => (
+    <ul className="list-disc ml-4 text-gray-700">
+      {items.map((item, index) => {
+        if (item.startsWith("-")) {
+          return (
+            <li key={index} className="ml-6 list-[circle]">
+              {item.replace("-", "").trim()}
+            </li>
+          );
+        }
+        return <li key={index}>{item}</li>;
+      })}
+    </ul>
+  );
 
   return (
     <section className="py-10 bg-gray-50">
       <h2 className="text-3xl font-bold text-center mb-8">
         {t("home.services.title")}
       </h2>
-      <p className="text-center mb-6 text-gray-600">{t("home.services.description")}</p>
+      <p className="text-center mb-6 text-gray-600">
+        {t("home.services.description")}
+      </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         {services.map((service, index) => (
           <div
@@ -48,11 +65,7 @@ const ServicesSection = () => {
             <h3 className="text-xl font-semibold mb-2 text-blue-700">
               {t(`home.services.${service.key}`)}
             </h3>
-            <ul className="list-disc ml-4 text-gray-700">
-              {service.description.map((desc, idx) => (
-                <li key={idx}>{desc}</li>
-              ))}
-            </ul>
+            {renderList(service.description)}
           </div>
         ))}
       </div>
@@ -61,4 +74,3 @@ const ServicesSection = () => {
 };
 
 export default ServicesSection;
-

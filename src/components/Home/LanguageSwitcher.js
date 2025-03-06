@@ -1,5 +1,5 @@
 import React from "react";
-import i18n from "../i18n";
+import i18n from "../../i18n";
 
 const LanguageSwitcher = () => (
   <div className="flex space-x-2">

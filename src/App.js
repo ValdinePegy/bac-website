@@ -1,7 +1,7 @@
 // App.js
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import About from "./pages/About";
+import About from "./pages/AboutPage";
 import AssistancePermanente from "./pages/AssistancePermanente";
 import AssistancePonctuelle from "./pages/AssistancePonctuelle";
 import Navbar from "./components/NavBar";

@@ -1,9 +1,9 @@
 import React from "react";
-import HeroSection from "../components/HeroSection";
-import AboutSection from "../components/AboutSection";
-import ServicesSection from "../components/ServicesSection";
-import SpecialtiesSection from "../components/SpecialtiesSection";
-import CTASection from "../components/CTASection";
+import HeroSection from "../components/Home/HeroSection";
+import AboutSection from "../components/Home/AboutSection";
+import ServicesSection from "../components/Home/ServicesSection";
+import SpecialtiesSection from "../components/Home/SpecialtiesSection";
+import CTASection from "../components/Home/CTASection";
 
 const Home = () => {
   return (
