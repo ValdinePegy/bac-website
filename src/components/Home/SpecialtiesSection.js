@@ -9,7 +9,7 @@ const SpecialtiesSection = () => {
     {
       key: "accounting",
       icon: "📊",
-      description: "Expertise en comptabilité et audit financier."
+      description: "Gestion comptable et audit financier."
     },
     {
       key: "taxation",
@@ -34,7 +34,7 @@ const SpecialtiesSection = () => {
     {
       key: "governance",
       icon: "📈",
-      description: "Management stratégique et optimisation de la gouvernance."
+      description: "Management stratégique et optimisation des organisations."
     }
   ];
 
