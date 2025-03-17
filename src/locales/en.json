@@ -117,8 +117,8 @@
             "Setting up extra-accounting files (asset tracking, cost calculation, etc.)",
             "Bank reconciliations",
             "Establishment of interest rate schedules",
-            "Quarterly account reviews",
-            "Preparation of quarterly financial statements",
+            "Periodic Account Review",
+            "Preparation of Periodic Financial Statements",
             "Accounting recovery",
             "Inventory and cash count assistance",
             "Preparation and submission of the Statistical and Tax Declaration (DSF)"
@@ -127,18 +127,18 @@
         "employment": {
           "title": "Social Work",
           "items": [
-            "Payroll processing",
+            "Payroll Processing for Employees",
             "Monthly and annual social contribution declarations",
             "Assistance with social security audits",
-            "Assistance with employment regulations",
+            "Assistance with Labor Department Inspections",
             "Labor law consulting (recruitment, dismissal, personnel management, etc.)"
           ]
         },
         "tax": {
           "title": "Tax Work",
           "items": [
-            "Answering oral and written tax questions",
-            "Preparation of monthly, periodic, and annual tax returns",
+            "Technical Responses to Oral or Written Taxation Inquiries",
+            "Preparation of Monthly, Periodic, and Annual Tax Declarations",
             "Tax optimization (advising on planned operations and decisions)",
             "Tax management for foreigners"
           ]

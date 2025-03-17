@@ -117,8 +117,8 @@
             "Mise en place des fichiers extra comptables (suivi des immobilisations, suivi de la production, calcul des coûts et coûts de revient, etc.)",
             "Établissement des rapprochements bancaires",
             "Établissement des échelles d’intérêts bancaires",
-            "Révision des comptes trimestriels",
-            "Élaboration des états comptables trimestriels",
+            "Révision des comptes périodiques",
+            "Élaboration des états financiers périodiques",
             "Rattrapage de la comptabilité",
             "Assistance aux inventaires et arrêtés de caisse",
             "Élaboration et montage de la Déclaration Statistique et Fiscale (DSF)"
@@ -127,20 +127,20 @@
         "employment": {
           "title": "Travaux Sociaux",
           "items": [
-            "Établissement des fiches ou bulletins de paie du personnel",
+            "Établissement des bulletins de paie du personnel",
             "Établissement et déclarations des cotisations sociales mensuelles et annuelles",
             "Assistance au contrôle des services de la prévoyance sociale",
-            "Assistance au contrôle des services de la sécurité sociale",
+            "Assistance au contrôle des services de la main d’œuvre",
             "Conseil en droit du travail (recrutement, licenciement, mise à disposition du personnel, etc.)"
           ]
         },
         "tax": {
           "title": "Travaux de Fiscalité",
           "items": [
-            "Répondre aux questions orales ou écrites en matière de fiscalité",
-            "Établissement des déclarations fiscales mensuelles, périodiques et annuelles",
-            "Optimisation fiscale (émission d’avis fiscaux sur les opérations envisagées)",
-            "Gestion fiscale des étrangers"
+            "Réponses techniques aux questions orales ou écrites en matière de fiscalité",
+            "Préparation des déclarations fiscales mensuelles, périodiques et annuelles",
+            "Optimisation fiscale (opinion fiscale sur les opérations envisagées)",
+            "Gestion fiscale des particuliers"
           ]
         },
         "legal": {

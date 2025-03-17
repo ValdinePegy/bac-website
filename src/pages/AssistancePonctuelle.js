@@ -5,6 +5,7 @@ import ForeignExchange from "../components/AssistancePonctuelle/ForeignExchange"
 import AgencyServices from "../components/AssistancePonctuelle/AgencyServices";
 import TransferPricing from "../components/AssistancePonctuelle/TransferPricing";
 import TaxDisputes from "../components/AssistancePonctuelle/TaxDisputes";
+import ContactInfo from "../components/About/ContactInfo";
 
 const AssistancePonctuelle = () => {
   return (
@@ -15,6 +16,7 @@ const AssistancePonctuelle = () => {
       <AgencyServices />
       <TransferPricing />
       <TaxDisputes />
+      <ContactInfo />
     </div>
   );
 };
