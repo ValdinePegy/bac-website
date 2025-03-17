@@ -35,14 +35,14 @@
         "title": "Contact",
         "manager": {
           "name": "Jean TCHINDA",
-          "role": "Spécialiste en comptabilité et finance",
+          "role": "DESS en comptabilité et finance",
           "certifications": "Conseil-Fiscal Agréé CEMAC S/N° 395, inscrit à l’ONCFC S/N° 24 204",
           "email": ["jean.tchinda@bac-cm.com", "jeantchinda76@gmail.com"],
           "phone": "+237 677 98 44 45 / 693 82 41 29"
         },
         "office": {
           "address": "Feu Rouge BESSINGUE, entre MUPECI et Pharmacie MONDIALE DEIDO-DOUALA",
-          "general_email": "advice@bac-cm.com",
+          "general_email": "jean.tchinda@bac-cm.com",
           "phone": "+237 621 81 25 22"
         }
       }
@@ -183,7 +183,7 @@
         "assistance_ponctuelle": {
           "title": "Assistance Ponctuelle",
           "annual_tax_regulation": {
-            "title": "Régularisation Fiscale et Sociale Annuelle sur Salaire",
+            "title": "Régularisation Fiscale et Parafiscale Annuelle sur Salaire",
             "items": [
               "Revue annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
               "Revue annuelle du respect des obligations fiscales et sociales de l’employeur",
