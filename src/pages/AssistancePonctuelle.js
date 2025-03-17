@@ -5,7 +5,7 @@ import ForeignExchange from "../components/AssistancePonctuelle/ForeignExchange"
 import AgencyServices from "../components/AssistancePonctuelle/AgencyServices";
 import TransferPricing from "../components/AssistancePonctuelle/TransferPricing";
 import TaxDisputes from "../components/AssistancePonctuelle/TaxDisputes";
-import ContactInfo from "../components/About/ContactInfo";
+import ContactInfo from "../components/AssistancePonctuelle/ContactInfo";
 
 const AssistancePonctuelle = () => {
   return (

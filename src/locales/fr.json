@@ -128,7 +128,7 @@
           "title": "Travaux Sociaux",
           "items": [
             "Établissement des bulletins de paie du personnel",
-            "Établissement et déclarations des cotisations sociales mensuelles et annuelles",
+            "Préparation des déclarations des cotisations sociales mensuelles et annuelles",
             "Assistance au contrôle des services de la prévoyance sociale",
             "Assistance au contrôle des services de la main d’œuvre",
             "Conseil en droit du travail (recrutement, licenciement, mise à disposition du personnel, etc.)"
@@ -183,28 +183,28 @@
         "assistance_ponctuelle": {
           "title": "Assistance Ponctuelle",
           "annual_tax_regulation": {
-            "title": "Régularisation Fiscale et Parafiscale Annuelle sur Salaire",
+            "title": "Régularisation de la Parafiscalité Annuelle",
             "items": [
-              "Revue annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
-              "Revue annuelle du respect des obligations fiscales et sociales de l’employeur",
-              "Vérification des méthodes de calcul des retenues sur salaires",
-              "Vérification du régime fiscal et social des majorations accessoires sur salaires",
-              "Vérification du traitement fiscal et social des avantages en nature, frais professionnels ou indemnités"
+              "Vérification annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
+              "Vérification annuelle du respect des obligations fiscales et sociales de l’employeur",
+              "Révision des méthodes de calcul des retenues sur salaires",
+              "Révision du régime fiscal et social des majorations accessoires sur salaires",
+              "Révision du traitement fiscal et social des avantages en nature, frais professionnels ou indemnités"
             ]
           },
           "dsf_tax_review": {
-            "title": "Revue Fiscale de la DSF",
+            "title": "Vérification Fiscale de la DSF",
             "items": [
-              "Analyse et vérification du tableau des immobilisations et des provisions",
+              "Contrôle du tableau des immobilisations et des provisions",
               "Bouclage de la TVA en fin d’exercice",
-              "Vérification de la liquidation correcte des prélèvements et exploitation des avantages fiscaux",
-              "Contrôle de l’apurement des dettes de l’entreprise",
+              "Contrôle de la liquidation correcte des prélèvements et exploitation des avantages fiscaux",
+              "Vérification de l’apurement des dettes de l’entreprise",
               "Identification des risques fiscaux et recommandations",
-              "Optimisation des économies d’impôts adaptées aux particularités de l’entreprise"
+              "Appréciation des économies d’impôts de l'entreprise"
             ]
           },
           "foreign_exchange": {
-            "title": "Assistance en Matière de Change",
+            "title": "Assistance en Matière douanière et de Change",
             "items": [
               "Assistance pour les opérations financières (capitaux étrangers, apurement des DI-SGS)",
               "Accompagnement pour les opérations d’importation et d’exportation",
@@ -215,15 +215,14 @@
             ]
           },
           "agency_services": {
-            "title": "Assistance en Management",
+            "title": "Assistance en Management des Organisation",
             "items": [
               "Mise en place des procédures de contrôle interne pour prévenir les fraudes",
-              "Optimisation de la répartition des rôles entre les organes de gestion",
-              "Clarification des fonctions des membres du Conseil d’Administration",
-              "Propositions pour résoudre les conflits d’intérêts",
-              "Définition des règles pour la transparence des rémunérations des dirigeants",
-              "Renforcement des pouvoirs des actionnaires minoritaires",
-              "Participation des salariés à la gouvernance de l’entreprise"
+              "Répartition équitable des rôles entre les organes de gestion",
+              "Distinction des fonctions des membres du Conseil d’Administration",
+              "Suggestions pour régler les conflits d’intérêts",
+              "Détermination des règles pour la transparence des rémunérations des dirigeants",
+              "Participation des salariés a la gestion de l'entreprise"
             ]
           },
           "transfer_pricing": {

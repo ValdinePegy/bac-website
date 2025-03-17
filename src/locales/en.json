@@ -128,7 +128,7 @@
           "title": "Social Work",
           "items": [
             "Payroll Processing for Employees",
-            "Monthly and annual social contribution declarations",
+            "Preparation of Monthly and Annual Social Contribution Declarations",
             "Assistance with social security audits",
             "Assistance with Labor Department Inspections",
             "Labor law consulting (recruitment, dismissal, personnel management, etc.)"
@@ -183,28 +183,28 @@
         "assistance_ponctuelle": {
           "title": "Occasional Assistance",
           "annual_tax_regulation": {
-            "title": "Annual Tax and Parafiscal Adjustment on Salary",
+            "title": "Annual Parafiscal Adjustment",
             "items": [
-              "Annual payroll review, regularization of taxes, levies, and social contributions",
-              "Annual review of employer compliance with tax and social obligations",
-              "Verification of payroll deduction calculation methods",
-              "Verification of the tax and social treatment of salary-related benefits",
-              "Ensuring compliance with fiscal and social obligations regarding payroll"
+              "Annual Payroll Audit, Tax, and Social Contribution Adjustment",
+              "Annual Audit of Employer’s Compliance with Tax and Social Obligations",
+              "Review of Salary Deduction Calculation Methods",
+              "Review of the Tax and Social Regime for Supplementary Salary Increases",
+              "Review of the Tax and Social Treatment of Benefits in Kind, Professional Expenses, and Allowances"
             ]
           },
           "dsf_tax_review": {
-            "title": "DSF Tax Review",
+            "title": "Tax Audit of the Annual Financial Statement (DSF)",
             "items": [
-              "Analysis and verification of the asset and provision table",
+              "Audit of the Fixed Assets and Provisions Schedule",
               "Final reconciliation of VAT at year-end",
-              "Ensuring proper tax deductions and optimizing available tax benefits",
-              "Controlling the settlement of corporate debts",
+              "Audit of the Proper Settlement of Deductions and Utilization of Tax Benefits",
+              "Audit of the Settlement of the Company's Debts",
               "Highlighting tax risks based on provided documents and issuing recommendations",
-              "Identifying potential tax savings through optimal use of applicable tax regulations"
+              "Assessment of the Company's Tax Savings"
             ]
           },
           "foreign_exchange": {
-            "title": "Foreign Exchange Assistance",
+            "title": "Assistance in Customs and Foreign Exchange Matters",
             "items": [
               "Assistance with financial transactions (foreign capital inflows, DI-SGS clearance)",
               "Support in import and export operations",
@@ -215,15 +215,14 @@
             ]
           },
           "agency_services": {
-            "title": "Management Assistance",
+            "title": "Assistance in Organizational Management",
             "items": [
               "Implementation of internal control procedures to prevent fraud in accounting and financial management",
-              "Optimization of the division of roles between different governance bodies",
-              "Clarification of the functions of Board of Directors' members",
-              "Recommendations on measures and rules for managing conflicts of interest",
-              "Establishing rules for transparency in executive compensation",
-              "Strengthening minority shareholder rights",
-              "Encouraging employee participation in corporate governance"
+              "Fair Distribution of Roles Among Governance Bodies",
+              "Distinction of the Roles of Board Members",
+              "Suggestions for Resolving Conflicts of Interest",
+              "Establishment of Rules for Executive Compensation Transparency",
+              "Employee Participation in Company Management"
             ]
           },
           "transfer_pricing": {
