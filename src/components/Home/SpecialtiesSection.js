@@ -24,7 +24,7 @@ const SpecialtiesSection = () => {
     {
       key: "legal_secretariat",
       icon: "📝",
-      description: "Gestion des formalités légales et secrétariat juridique."
+      description: "PV des Assemblées et gestion des formalités légales"
     },
     {
       key: "expatriate_management",

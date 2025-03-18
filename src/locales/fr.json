@@ -29,7 +29,7 @@
       },
       "team": {
         "title": "Notre Équipe",
-        "description": "Notre force réside dans notre individualité. Autour de M. TCHINDA Jean, l'équipe s'efforce de s'entourer des meilleurs experts en comptabilité, fiscalité, droit et finances."
+        "description": "Notre particularité réside dans notre expérience. Au tour de M. Tchinda Jean, l’équipe est constituée des meilleurs experts en comptabilité, fiscalité, etc."
       },
       "contact": {
         "title": "Contact",
@@ -49,7 +49,7 @@
     },
     "home": {
       "welcome_message": "Bienvenue chez BAC",
-      "subtext": "Votre partenaire de confiance pour la comptabilité et la fiscalité.",
+      "subtext": "Votre partenaire de confiance pour votre assistance en comptabilité et fiscalité",
       "description": "BUSINESS & ADVICE CONSULTANTS en abrégé « BAC » est un cabinet d’expertise, d’audit et un Centre de Gestion Agréé.",
       "license": "Sous le numéro 0000762/MINFI/DGI/LRI/CSR du 30 septembre 2024",
       "location": "Situé au Feu Rouge BESSINGUE entre MUPECI et Pharmacie MONDIALE DEIDO-DOUALA",
@@ -80,9 +80,9 @@
         "fiscal_advice": {
           "title": "Conseil Fiscal",
           "points": [
-            "Optimisation Fiscale : aider les clients à minimiser leur charge fiscale tout en respectant les lois en vigueur.",
-            "Planification fiscale : élaborer des stratégies pour gérer les obligations fiscales futures.",
-            "Gestion des déclarations fiscales : préparation et soumission des déclarations d'impôts."
+            "Optimisation fiscale : Contribuer à la réduction de la charge fiscale du client en toute légalité.",
+            "Stratégie fiscale : Identifier les risques fiscaux futurs de l’entreprise.",
+            "Gestion des déclarations fiscales : Préparation et soumission des déclarations d'impôts."
           ]
         },
         "legal_advice": {
@@ -110,7 +110,7 @@
       "assistance_permanente": {
         "title": "Assistance Permanente",
         "accounting": {
-          "title": "Travaux de Comptabilité",
+          "title": "Tenue préalable de la comptabilité",
           "items": [
             "Imputation des pièces comptables",
             "Saisie et enregistrement des pièces comptables",
@@ -125,7 +125,7 @@
           ]
         },
         "employment": {
-          "title": "Travaux Sociaux",
+          "title": "Tenue de la paie et assistance",
           "items": [
             "Établissement des bulletins de paie du personnel",
             "Préparation des déclarations des cotisations sociales mensuelles et annuelles",
@@ -135,7 +135,7 @@
           ]
         },
         "tax": {
-          "title": "Travaux de Fiscalité",
+          "title": "Assistance fiscale",
           "items": [
             "Réponses techniques aux questions orales ou écrites en matière de fiscalité",
             "Préparation des déclarations fiscales mensuelles, périodiques et annuelles",
@@ -144,7 +144,7 @@
           ]
         },
         "legal": {
-          "title": "Travaux Juridiques",
+          "title": "Assistance juridique",
           "assistance": {
             "title": "Assistance Juridique",
             "items": [
@@ -188,8 +188,7 @@
               "Vérification annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
               "Vérification annuelle du respect des obligations fiscales et sociales de l’employeur",
               "Révision des méthodes de calcul des retenues sur salaires",
-              "Révision du régime fiscal et social des majorations accessoires sur salaires",
-              "Révision du traitement fiscal et social des avantages en nature, frais professionnels ou indemnités"
+              "Vérifier le régime fiscal des accessoires de salaires (indemnités, avantages en nature, etc.)"
             ]
           },
           "dsf_tax_review": {
@@ -204,44 +203,38 @@
             ]
           },
           "foreign_exchange": {
-            "title": "Assistance en Matière douanière et de Change",
+            "title": "Assistance douanière et contrôle de change",
             "items": [
-              "Assistance pour les opérations financières (capitaux étrangers, apurement des DI-SGS)",
               "Accompagnement pour les opérations d’importation et d’exportation",
               "Assistance au contrôle des services de douanes",
-              "Aide au transfert des salaires des salariés étrangers",
               "Support au contrôle des changes (Ministère des Finances et BEAC)",
-              "Accompagnement pour le transfert des revenus locatifs"
+              "Accompagnement pour le transfert des revenus"
             ]
           },
           "agency_services": {
-            "title": "Assistance en Management des Organisation",
+            "title": "Assistance en Management des Organisations",
             "items": [
               "Mise en place des procédures de contrôle interne pour prévenir les fraudes",
               "Répartition équitable des rôles entre les organes de gestion",
-              "Distinction des fonctions des membres du Conseil d’Administration",
-              "Suggestions pour régler les conflits d’intérêts",
               "Détermination des règles pour la transparence des rémunérations des dirigeants",
               "Participation des salariés a la gestion de l'entreprise"
             ]
           },
           "transfer_pricing": {
-            "title": "Assistance en Matière de Prix de Transfert",
+            "title": "Assistance en Prix de Transferts",
             "items": [
               "Mise en place de votre politique de prix",
               "Sécurisation juridique des prix (accord préalable de prix de transfert, accord bilatéral ou unilatéral)",
               "Aide à la documentation justificative des prix de transfert",
-              "Accompagnement lors des contrôles fiscaux",
-              "Dialogue avec l’Administration Fiscale pour limiter les conséquences",
-              "Procédure amiable ou arbitrage pour éviter la double imposition en cas de redressement"
+              "Accompagnement lors des contrôles fiscaux"
             ]
           },
           "tax_disputes": {
-            "title": "Assistance aux Contrôle et Contentieux Fiscaux",
+            "title": "Assistance au Contrôle et/ Contentieux Fiscaux",
             "pieces_control": {
               "title": "Contrôle sur Pièces",
               "items": [
-                "Analyse de la pertinence de la procédure de contrôle sur pièces",
+                "Appréciation de la procédure de contrôle sur pièces",
                 "Évaluation des demandes d’éclaircissements et justifications",
                 "Élimination du risque fiscal probant"
               ]
@@ -252,7 +245,6 @@
                 "Préparation et suivi du contrôle fiscal",
                 "Organisation et encadrement des équipes comptables",
                 "Assistance lors des opérations de vérification sur place",
-                "Adaptation aux évolutions du contrôle",
                 "Présentation des choix fiscaux à l’Administration",
                 "Évaluation des risques fiscaux latents"
               ]
@@ -261,7 +253,7 @@
               "title": "Suivi de la Procédure Administrative",
               "items": [
                 "Proposition de solutions et préparation des réponses aux observations suite aux notifications de redressement",
-                "Analyse de la pertinence des points relevés par l’Inspecteur des Impôts",
+                "Appréciation des points relevés par l’Inspecteur des Impôts",
                 "Rédaction des réponses aux chefs de redressements envisagés",
                 "Assistance dans le cadre des procédures contradictoires en entreprise et au Centre des Impôts avant la notification définitive"
               ]

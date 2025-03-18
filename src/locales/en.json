@@ -29,7 +29,7 @@
       },
       "team": {
         "title": "Our Team",
-        "description": "Our strength lies in our individuality. Led by Mr. Jean TCHINDA, our team includes top experts in accounting, taxation, law, and finance."
+        "description": "Our Uniqueness Lies in Our Experience. Under the leadership of Mr. Tchinda Jean, our team is composed of top experts in accounting, taxation, and more.."
       },
       "contact": {
         "title": "Contact",
@@ -49,7 +49,7 @@
     },
     "home": {
       "welcome_message": "Welcome to BAC",
-      "subtext": "Your trusted partner for accounting and taxation.",
+      "subtext": "Your Trusted Partner for Accounting and Tax Assistance",
       "description": "BUSINESS & ADVICE CONSULTANTS, abbreviated as 'BAC,' is an expert consulting, auditing, and management firm.",
       "license": "Registered under number 0000762/MINFI/DGI/LRI/CSR on September 30, 2024",
       "location": "Located at Feu Rouge BESSINGUE between MUPECI and Pharmacie MONDIALE DEIDO-DOUALA",
@@ -80,8 +80,8 @@
         "fiscal_advice": {
           "title": "Tax Consulting",
           "points": [
-            "Tax Optimization: Helping clients minimize their tax burden while complying with the law.",
-            "Tax Planning: Developing strategies to manage future tax obligations.",
+            "Tax Optimization: Legally Contributing to the Reduction of the Client's Tax Burden.",
+            "Tax Strategy: Identifying the Company's Future Tax Risks.",
             "Tax Filing Management: Preparing and submitting tax returns."
           ]
         },
@@ -110,7 +110,7 @@
       "assistance_permanente": {
         "title": "Permanent Assistance",
         "accounting": {
-          "title": "Accounting Work",
+          "title": "Preliminary Accounting Management",
           "items": [
             "Accounting entry processing",
             "Recording and bookkeeping",
@@ -125,7 +125,7 @@
           ]
         },
         "employment": {
-          "title": "Social Work",
+          "title": "Payroll Management and Assistance",
           "items": [
             "Payroll Processing for Employees",
             "Preparation of Monthly and Annual Social Contribution Declarations",
@@ -135,7 +135,7 @@
           ]
         },
         "tax": {
-          "title": "Tax Work",
+          "title": "Tax Assistance",
           "items": [
             "Technical Responses to Oral or Written Taxation Inquiries",
             "Preparation of Monthly, Periodic, and Annual Tax Declarations",
@@ -144,7 +144,7 @@
           ]
         },
         "legal": {
-          "title": "Legal Work",
+          "title": "Legal Assistance",
           "assistance": {
             "title": "Legal Assistance",
             "items": [
@@ -188,8 +188,7 @@
               "Annual Payroll Audit, Tax, and Social Contribution Adjustment",
               "Annual Audit of Employer’s Compliance with Tax and Social Obligations",
               "Review of Salary Deduction Calculation Methods",
-              "Review of the Tax and Social Regime for Supplementary Salary Increases",
-              "Review of the Tax and Social Treatment of Benefits in Kind, Professional Expenses, and Allowances"
+              "Verify the Tax Regime for Salary Supplements (Allowances, Benefits in Kind, etc.)"
             ]
           },
           "dsf_tax_review": {
@@ -204,14 +203,12 @@
             ]
           },
           "foreign_exchange": {
-            "title": "Assistance in Customs and Foreign Exchange Matters",
+            "title": "Customs Assistance and Foreign Exchange Control",
             "items": [
-              "Assistance with financial transactions (foreign capital inflows, DI-SGS clearance)",
               "Support in import and export operations",
               "Assistance with customs audits",
-              "Guidance on the transfer of foreign employee salaries",
               "Compliance support for foreign exchange controls (Ministry of Finance and BEAC)",
-              "Assistance with transferring rental income abroad"
+              "Support for Income Transfer"
             ]
           },
           "agency_services": {
@@ -219,8 +216,6 @@
             "items": [
               "Implementation of internal control procedures to prevent fraud in accounting and financial management",
               "Fair Distribution of Roles Among Governance Bodies",
-              "Distinction of the Roles of Board Members",
-              "Suggestions for Resolving Conflicts of Interest",
               "Establishment of Rules for Executive Compensation Transparency",
               "Employee Participation in Company Management"
             ]
@@ -231,17 +226,15 @@
               "Implementation of a corporate transfer pricing policy",
               "Providing legal security for pricing agreements (advance pricing agreement, bilateral or unilateral agreements)",
               "Assistance in preparing transfer pricing documentation",
-              "Support during tax audits focused on transfer pricing",
-              "Engaging in dialogue with tax authorities to mitigate potential tax risks",
-              "Negotiating amicable resolutions or arbitration to avoid double taxation in case of tax adjustments"
+              "Support during tax audits focused on transfer pricing"
             ]
           },
           "tax_disputes": {
-            "title": "Tax Control and Dispute Assistance",
+            "title": "Assistance with Tax Audits and Litigation",
             "pieces_control": {
               "title": "Desk Audit Assistance",
               "items": [
-                "Analysis of the validity of desk audit procedures",
+                "Assessment of the Desk Audit Procedure",
                 "Review of requested clarifications and justifications",
                 "Minimization of potential tax risks"
               ]
@@ -252,7 +245,6 @@
                 "Preparation and organization of tax audits",
                 "Structuring and managing accounting teams for audit readiness",
                 "Support for companies during on-site tax inspections",
-                "Adapting tax defense strategies according to audit developments",
                 "Presentation and justification of company tax positions to authorities",
                 "Assessment of financial risks related to tax liabilities"
               ]
@@ -261,7 +253,7 @@
               "title": "Administrative Tax Procedure Support",
               "items": [
                 "Proposing solutions and preparing responses to preliminary tax adjustment notices",
-                "Assessing the validity of points raised by tax authorities",
+                "Assessment of the Issues Raised by the Tax Inspector",
                 "Drafting responses to tax adjustments considered by the tax administration",
                 "Assisting with tax dispute procedures in company offices and at the Tax Center before final tax adjustments"
               ]
