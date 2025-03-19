@@ -14,7 +14,7 @@ const AssistancePermanente = () => {
       <TaxServices />
       <LegalServices />
       <ManagementCenter />
-      <NonResidentsManagement />
+      {/* <NonResidentsManagement /> */}
       <ContactInfo />
     </div>
   );

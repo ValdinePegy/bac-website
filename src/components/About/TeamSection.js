@@ -17,6 +17,7 @@ const TeamSection = () => {
             {t("about.contact.manager.name")}
           </h4>
           <p className="text-gray-600">{t("about.contact.manager.role")}</p>
+          <p className="text-gray-600">{t("about.contact.manager.subrole")}</p>
           <p className="text-sm text-gray-500">{t("about.contact.manager.certifications")}</p>
         </div>
       </div>

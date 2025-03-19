@@ -14,22 +14,17 @@ const SpecialtiesSection = () => {
     {
       key: "taxation",
       icon: "💼",
-      description: "Optimisation fiscale et gestion des déclarations."
+      description: "Optimisation fiscale et administration des déclarations."
     },
     {
       key: "business_law",
       icon: "⚖️",
-      description: "Conseil en droit des affaires et rédaction de contrats."
+      description: "Conseil en droit des affaires et de travail."
     },
     {
       key: "legal_secretariat",
       icon: "📝",
       description: "PV des Assemblées et gestion des formalités légales"
-    },
-    {
-      key: "expatriate_management",
-      icon: "🌍",
-      description: "Accompagnement des expatriés et gestion des visas."
     },
     {
       key: "governance",

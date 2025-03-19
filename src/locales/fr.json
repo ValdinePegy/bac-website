@@ -35,7 +35,8 @@
         "title": "Contact",
         "manager": {
           "name": "Jean TCHINDA",
-          "role": "DESS en comptabilité et finance",
+          "role": "Dess en comptabilité et finance",
+          "subrole": "Associé-gérant",
           "certifications": "Conseil-Fiscal Agréé CEMAC S/N° 395, inscrit à l’ONCFC S/N° 24 204",
           "email": ["jean.tchinda@bac-cm.com", "jeantchinda76@gmail.com"],
           "phone": "+237 677 98 44 45 / 693 82 41 29"
@@ -60,7 +61,7 @@
       "slogan": "Notre expérience au service de la qualité pour votre confiance renouvelée.",
       "services": {
         "title": "Nos Services",
-        "description": "Offre une gamme complète de services aux entreprises ainsi qu’aux organismes et institutions publiques.",
+        "description": "Offre des services variés aux entreprises ainsi qu’aux organismes et institutions publiques.",
         "fiscal": "Conseil Fiscal",
         "legal": "Conseil Juridique",
         "audit": "Audit et Commissariat aux Comptes en partenariat",
@@ -81,16 +82,15 @@
           "title": "Conseil Fiscal",
           "points": [
             "Optimisation fiscale : Contribuer à la réduction de la charge fiscale du client en toute légalité.",
-            "Stratégie fiscale : Identifier les risques fiscaux futurs de l’entreprise.",
-            "Gestion des déclarations fiscales : Préparation et soumission des déclarations d'impôts."
+            "Administration des déclarations fiscales : Télédeclaration des impôts."
           ]
         },
         "legal_advice": {
           "title": "Conseil Juridique",
           "points": [
             "Droit des sociétés : création, fusion, acquisition et liquidation d'entreprises.",
-            "Contrats : rédaction et analyse de contrats commerciaux, de travail, de partenariat, etc.",
-            "Contentieux : représentation des clients dans les litiges fiscaux et juridiques."
+            "Droit de travail : contrats et visa de travail.",
+            "Contentieux : Assistance des clients dans les litiges fiscaux et juridiques."
           ]
         },
         "audit": {
@@ -114,32 +114,28 @@
           "items": [
             "Imputation des pièces comptables",
             "Saisie et enregistrement des pièces comptables",
-            "Mise en place des fichiers extra comptables (suivi des immobilisations, suivi de la production, calcul des coûts et coûts de revient, etc.)",
-            "Établissement des rapprochements bancaires",
-            "Établissement des échelles d’intérêts bancaires",
-            "Révision des comptes périodiques",
-            "Élaboration des états financiers périodiques",
+            "Suivi des amortissements, des provisions et calcul du coût de productions",
+            "Établissement des rapprochements bancaires et des échelles d’intérêts",
+            "Arrêtés des comptes et production des etats périodiques",
             "Rattrapage de la comptabilité",
-            "Assistance aux inventaires et arrêtés de caisse",
-            "Élaboration et montage de la Déclaration Statistique et Fiscale (DSF)"
+            "Production de la Déclaration Statistique et Fiscale (DSF)"
           ]
         },
         "employment": {
           "title": "Tenue de la paie et assistance",
           "items": [
             "Établissement des bulletins de paie du personnel",
-            "Préparation des déclarations des cotisations sociales mensuelles et annuelles",
-            "Assistance au contrôle des services de la prévoyance sociale",
-            "Assistance au contrôle des services de la main d’œuvre",
-            "Conseil en droit du travail (recrutement, licenciement, mise à disposition du personnel, etc.)"
+            "Déclarations des rétenues fiscale et sociales mensuelles et annuelles",
+            "Assistance au contrôle de la CNPS et de la main d’œuvre",
+            "Accompagnement en droit du travail"
           ]
         },
         "tax": {
           "title": "Assistance fiscale",
           "items": [
             "Réponses techniques aux questions orales ou écrites en matière de fiscalité",
-            "Préparation des déclarations fiscales mensuelles, périodiques et annuelles",
-            "Optimisation fiscale (opinion fiscale sur les opérations envisagées)",
+            "Déclarations fiscales mensuelles, périodiques et annuelles",
+            "Avis professionels sur les opérations envisagées",
             "Gestion fiscale des particuliers"
           ]
         },
@@ -149,13 +145,13 @@
             "title": "Assistance Juridique",
             "items": [
               "Réponses aux questions orales et écrites en matière de législation",
-              "Consultations juridiques sur le Droit des Affaires (Droit des Sociétés, Droit Social, Droit des Contrats)"
+              "Consultations juridiques ( Droit des Affaires, Droit du travail, etc.)"
             ]
           },
           "secretariat": {
             "title": "Secrétariat Juridique",
             "items": [
-              "Rédaction des Procès-Verbaux des Conseils d’Administration et Assemblées Générales (ordinaire et extraordinaire)",
+              "Rédaction des Procès-Verbaux des Assemblées Générales (ordinaire et extraordinaire)",
               "Rédaction des rapports de CAC (rapport général et rapport spécial, compte rendu, etc.)",
               "Accomplissement des formalités légales"
             ]
@@ -168,42 +164,32 @@
             "Transmission des dossiers à la DGI",
             "Tenue de la comptabilité sur demande",
             "Déclaration des impôts sur demande",
-            "Fourniture d’autres services sur demande"
-          ]
-        },
-        "non_residents": {
-          "title": "Gestion des Non-Résidents",
-          "items": [
-            "Rédaction du contrat de travail des étrangers",
-            "Formalités d’obtention du visa et carte de séjour",
-            "Déclaration fiscale annuelle des revenus des étrangers"
+            "Fourniture d’autres services sur demande",
+            "Avantage fiscaux: reduction de 50% d'impôts pour les adhérents"
           ]
         }
       },
         "assistance_ponctuelle": {
           "title": "Assistance Ponctuelle",
           "annual_tax_regulation": {
-            "title": "Régularisation de la Parafiscalité Annuelle",
+            "title": "Contrôle de la Parafiscalité Annuelle",
             "items": [
-              "Vérification annuelle de la paie, régularisation des impôts, taxes et cotisations sociales",
-              "Vérification annuelle du respect des obligations fiscales et sociales de l’employeur",
-              "Révision des méthodes de calcul des retenues sur salaires",
-              "Vérifier le régime fiscal des accessoires de salaires (indemnités, avantages en nature, etc.)"
+              "Vérification annuelle de la paie, des calculs des rétenues fiscale et sociales sur salaires",
+              "Vérification du régime fiscal des accessoires de salaires, des avantages en nature et des obligations patronales",
+              "Etc..."
             ]
           },
           "dsf_tax_review": {
-            "title": "Vérification Fiscale de la DSF",
+            "title": "Contrôle Fiscal de la DSF",
             "items": [
               "Contrôle du tableau des immobilisations et des provisions",
               "Bouclage de la TVA en fin d’exercice",
-              "Contrôle de la liquidation correcte des prélèvements et exploitation des avantages fiscaux",
-              "Vérification de l’apurement des dettes de l’entreprise",
-              "Identification des risques fiscaux et recommandations",
-              "Appréciation des économies d’impôts de l'entreprise"
+              "Exploitation des avantages fiscaux, contrôle des liquidations et dettes fiscales",
+              "Appréciation des risques fiscaux et recommandations"
             ]
           },
           "foreign_exchange": {
-            "title": "Assistance douanière et contrôle de change",
+            "title": "Contrôle douanier et de change",
             "items": [
               "Accompagnement pour les opérations d’importation et d’exportation",
               "Assistance au contrôle des services de douanes",
@@ -216,17 +202,15 @@
             "items": [
               "Mise en place des procédures de contrôle interne pour prévenir les fraudes",
               "Répartition équitable des rôles entre les organes de gestion",
-              "Détermination des règles pour la transparence des rémunérations des dirigeants",
               "Participation des salariés a la gestion de l'entreprise"
             ]
           },
           "transfer_pricing": {
-            "title": "Assistance en Prix de Transferts",
+            "title": "Prévention de la double imposition",
             "items": [
-              "Mise en place de votre politique de prix",
-              "Sécurisation juridique des prix (accord préalable de prix de transfert, accord bilatéral ou unilatéral)",
-              "Aide à la documentation justificative des prix de transfert",
-              "Accompagnement lors des contrôles fiscaux"
+              "Mise en place de votre politique de prix de transferts et securisation (rescrit fiscale)",
+              "Accompagnement lors des contrôles fiscaux",
+              "Proposition de l'arbitrage pour l'elimination de la double imposition"
             ]
           },
           "tax_disputes": {
@@ -242,28 +226,26 @@
             "onsite_control": {
               "title": "Contrôle sur Place",
               "items": [
-                "Préparation et suivi du contrôle fiscal",
+                "Préparation du contrôle fiscal",
                 "Organisation et encadrement des équipes comptables",
                 "Assistance lors des opérations de vérification sur place",
-                "Présentation des choix fiscaux à l’Administration",
-                "Évaluation des risques fiscaux latents"
+                "Évaluation des risques fiscaux et proposition à l'administration"
               ]
             },
             "administrative_procedure": {
               "title": "Suivi de la Procédure Administrative",
               "items": [
-                "Proposition de solutions et préparation des réponses aux observations suite aux notifications de redressement",
-                "Appréciation des points relevés par l’Inspecteur des Impôts",
+                "Appréciation des prétentions de l’Inspecteur des Impôts",
                 "Rédaction des réponses aux chefs de redressements envisagés",
-                "Assistance dans le cadre des procédures contradictoires en entreprise et au Centre des Impôts avant la notification définitive"
+                "Assistance dans le cadre des procédures contradictoires avant la notification définitive"
               ]
             },
             "preliminary_appeal": {
               "title": "Recours Préalable devant l’Administration",
               "items": [
-                "Suivi du contentieux devant la Direction Générale des Impôts (DGI)",
+                "Suivi du contentieux devant la Direction Générale des Impôts (DGI, DGE, CRI)",
                 "Suivi du contentieux devant le Ministère des Finances (MINFI)",
-                "Procédure de transaction fiscale devant les Services des Impôts le cas échéant (Art.L125 du LPF du CAMEROUN)"
+                "Procédure de transaction fiscale devant la DGI (Art.L125 du LPF de CGI)"
               ]
             },
             "judicial_appeal": {

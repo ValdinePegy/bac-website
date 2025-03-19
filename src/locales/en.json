@@ -36,6 +36,7 @@
         "manager": {
           "name": "Jean TCHINDA",
           "role": "Specialist in Accounting and Finance",
+          "subrole": "Managing Partner",
           "certifications": "CEMAC Licensed Tax Consultant S/N° 395, registered with ONCFC S/N° 24 204",
           "email": ["jean.tchinda@bac-cm.com", "jeantchinda76@gmail.com"],
           "phone": "+237 677 98 44 45 / 693 82 41 29"
@@ -60,7 +61,7 @@
       "slogan": "Our experience in service quality for your renewed trust.",
       "services": {
         "title": "Our Services",
-        "description": "Offers a full range of services to businesses as well as public organizations and institutions.",
+        "description": "Offering a Wide Range of Services to Businesses, Organizations, and Public Institutions.",
         "fiscal": "Tax Consulting",
         "legal": "Legal Consulting",
         "audit": "Audit and Financial Review in Partnership",
@@ -81,16 +82,15 @@
           "title": "Tax Consulting",
           "points": [
             "Tax Optimization: Legally Contributing to the Reduction of the Client's Tax Burden.",
-            "Tax Strategy: Identifying the Company's Future Tax Risks.",
-            "Tax Filing Management: Preparing and submitting tax returns."
+            "Tax Filing Administration: Online Tax Declaration."
           ]
         },
         "legal_advice": {
           "title": "Legal Consulting",
           "points": [
             "Corporate Law: Company creation, mergers, acquisitions, and liquidation.",
-            "Contracts: Drafting and reviewing commercial, employment, and partnership contracts.",
-            "Litigation: Representing clients in tax and legal disputes."
+            "Labor Law: Employment Contracts and Work Visas.",
+            "Litigation: Assisting Clients in Tax and Legal Disputes."
           ]
         },
         "audit": {
@@ -114,32 +114,28 @@
           "items": [
             "Accounting entry processing",
             "Recording and bookkeeping",
-            "Setting up extra-accounting files (asset tracking, cost calculation, etc.)",
-            "Bank reconciliations",
-            "Establishment of interest rate schedules",
-            "Periodic Account Review",
-            "Preparation of Periodic Financial Statements",
+            "Monitoring Depreciation, Provisions, and Production Cost Calculation",
+            "Preparation of Bank Reconciliations and Interest Schedules",
+            "Closing of Accounts and Preparation of Periodic Financial Statements",
             "Accounting recovery",
-            "Inventory and cash count assistance",
-            "Preparation and submission of the Statistical and Tax Declaration (DSF)"
+            "Preparation of the Statistical and Tax Declaration (DSF)"
           ]
         },
         "employment": {
           "title": "Payroll Management and Assistance",
           "items": [
             "Payroll Processing for Employees",
-            "Preparation of Monthly and Annual Social Contribution Declarations",
-            "Assistance with social security audits",
-            "Assistance with Labor Department Inspections",
-            "Labor law consulting (recruitment, dismissal, personnel management, etc.)"
+            "Filing of Monthly and Annual Tax and Social Withholding Declarations",
+            "Assistance with CNPS and Labor Inspections",
+            "Support in Labor Law"
           ]
         },
         "tax": {
           "title": "Tax Assistance",
           "items": [
             "Technical Responses to Oral or Written Taxation Inquiries",
-            "Preparation of Monthly, Periodic, and Annual Tax Declarations",
-            "Tax optimization (advising on planned operations and decisions)",
+            "Monthly, Periodic, and Annual Tax Declarations",
+            "Professional Opinion on Planned Operations",
             "Tax management for foreigners"
           ]
         },
@@ -149,13 +145,13 @@
             "title": "Legal Assistance",
             "items": [
               "Answers to oral and written legal questions",
-              "Legal consultations on Business Law (Corporate Law, Social Law, Contract Law)"
+              "Legal Consultations (Business Law, Labor Law, etc.)"
             ]
           },
           "secretariat": {
             "title": "Legal Secretariat",
             "items": [
-              "Drafting minutes of Board of Directors and General Meetings (ordinary and extraordinary)",
+              "Drafting of General Assembly Minutes (Ordinary and Extraordinary)",
               "Drafting reports for Auditors (general and special reports, meeting summaries, etc.)",
               "Completion of legal formalities"
             ]
@@ -168,42 +164,32 @@
             "Transmission of files to the DGI",
             "Bookkeeping on request",
             "Tax filing on request",
-            "Providing additional services upon request"
-          ]
-        },
-        "non_residents": {
-          "title": "Non-Resident Management",
-          "items": [
-            "Drafting employment contracts for foreigners",
-            "Visa and residence permit formalities",
-            "Annual tax declaration for foreign income"
+            "Providing additional services upon request",
+            "Tax Benefits: 50% Tax Reduction for Members"
           ]
         }
       },
         "assistance_ponctuelle": {
           "title": "Occasional Assistance",
           "annual_tax_regulation": {
-            "title": "Annual Parafiscal Adjustment",
+            "title": "Annual Parafiscal Audit",
             "items": [
-              "Annual Payroll Audit, Tax, and Social Contribution Adjustment",
-              "Annual Audit of Employer’s Compliance with Tax and Social Obligations",
-              "Review of Salary Deduction Calculation Methods",
-              "Verify the Tax Regime for Salary Supplements (Allowances, Benefits in Kind, etc.)"
+              "Annual Payroll Audit and Verification of Tax and Social Withholding Calculations on Salaries",
+              "Verification of the Tax Regime for Salary Supplements, Benefits in Kind, and Employer Obligations",
+              "Etc..."
             ]
           },
           "dsf_tax_review": {
-            "title": "Tax Audit of the Annual Financial Statement (DSF)",
+            "title": "Tax Audit of the Statistical and Tax Declaration (DSF)",
             "items": [
               "Audit of the Fixed Assets and Provisions Schedule",
               "Final reconciliation of VAT at year-end",
-              "Audit of the Proper Settlement of Deductions and Utilization of Tax Benefits",
-              "Audit of the Settlement of the Company's Debts",
-              "Highlighting tax risks based on provided documents and issuing recommendations",
-              "Assessment of the Company's Tax Savings"
+              "Utilization of Tax Benefits, Audit of Settlements, and Tax Liabilities",
+              "Assessment of Tax Risks and Recommendations"
             ]
           },
           "foreign_exchange": {
-            "title": "Customs Assistance and Foreign Exchange Control",
+            "title": "Customs and Foreign Exchange Control",
             "items": [
               "Support in import and export operations",
               "Assistance with customs audits",
@@ -216,17 +202,15 @@
             "items": [
               "Implementation of internal control procedures to prevent fraud in accounting and financial management",
               "Fair Distribution of Roles Among Governance Bodies",
-              "Establishment of Rules for Executive Compensation Transparency",
               "Employee Participation in Company Management"
             ]
           },
           "transfer_pricing": {
-            "title": "Transfer Pricing Assistance",
+            "title": "Prevention of Double Taxation",
             "items": [
-              "Implementation of a corporate transfer pricing policy",
-              "Providing legal security for pricing agreements (advance pricing agreement, bilateral or unilateral agreements)",
-              "Assistance in preparing transfer pricing documentation",
-              "Support during tax audits focused on transfer pricing"
+              "Implementation of Your Transfer Pricing Policy and Securing It (Tax Ruling)",
+              "Support during tax audits focused on transfer pricing",
+              "Proposal for Arbitration to Eliminate Double Taxation"
             ]
           },
           "tax_disputes": {
@@ -242,28 +226,26 @@
             "onsite_control": {
               "title": "On-Site Tax Audit Assistance",
               "items": [
-                "Preparation and organization of tax audits",
+                "Preparation for Tax Audit",
                 "Structuring and managing accounting teams for audit readiness",
                 "Support for companies during on-site tax inspections",
-                "Presentation and justification of company tax positions to authorities",
-                "Assessment of financial risks related to tax liabilities"
+                "Tax Risk Assessment and Proposal to the Administration"
               ]
             },
             "administrative_procedure": {
               "title": "Administrative Tax Procedure Support",
               "items": [
-                "Proposing solutions and preparing responses to preliminary tax adjustment notices",
-                "Assessment of the Issues Raised by the Tax Inspector",
+                "Assessment of the Tax Inspector's Claims",
                 "Drafting responses to tax adjustments considered by the tax administration",
-                "Assisting with tax dispute procedures in company offices and at the Tax Center before final tax adjustments"
+                "Assistance in Adversarial Procedures Before Final Notification"
               ]
             },
             "preliminary_appeal": {
               "title": "Preliminary Appeal before Tax Administration",
               "items": [
-                "Managing tax disputes before the Directorate General of Taxes (DGI)",
+                "Managing tax disputes before the Directorate General of Taxes (DGI, DGE, CRI)",
                 "Handling tax disputes before the Ministry of Finance (MINFI)",
-                "Tax settlement negotiations before the tax authorities if necessary (Art.L125 of Cameroon’s Tax Code)"
+                "Tax Settlement Procedure Before the DGI (Article L125 of the General Tax Code - CGI)"
               ]
             },
             "judicial_appeal": {
