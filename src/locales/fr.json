@@ -82,7 +82,7 @@
           "title": "Conseil Fiscal",
           "points": [
             "Optimisation fiscale : Contribuer à la réduction de la charge fiscale du client en toute légalité.",
-            "Administration des déclarations fiscales : Télédeclaration des impôts."
+            "Administration des déclarations fiscales : Télédéclarations des impôts."
           ]
         },
         "legal_advice": {
@@ -114,9 +114,9 @@
           "items": [
             "Imputation des pièces comptables",
             "Saisie et enregistrement des pièces comptables",
-            "Suivi des amortissements, des provisions et calcul du coût de productions",
+            "Suivi des amortissements, des provisions et calculs du coût de productions",
             "Établissement des rapprochements bancaires et des échelles d’intérêts",
-            "Arrêtés des comptes et production des etats périodiques",
+            "Arrêtés des comptes et production des états périodiques",
             "Rattrapage de la comptabilité",
             "Production de la Déclaration Statistique et Fiscale (DSF)"
           ]
@@ -125,7 +125,7 @@
           "title": "Tenue de la paie et assistance",
           "items": [
             "Établissement des bulletins de paie du personnel",
-            "Déclarations des rétenues fiscale et sociales mensuelles et annuelles",
+            "Déclarations des rétenues fiscales et sociales mensuelles et annuelles",
             "Assistance au contrôle de la CNPS et de la main d’œuvre",
             "Accompagnement en droit du travail"
           ]
@@ -165,7 +165,7 @@
             "Tenue de la comptabilité sur demande",
             "Déclaration des impôts sur demande",
             "Fourniture d’autres services sur demande",
-            "Avantage fiscaux: reduction de 50% d'impôts pour les adhérents"
+            "Avantages fiscaux: reduction de 50% d'impôts pour les adhérents"
           ]
         }
       },
@@ -174,7 +174,7 @@
           "annual_tax_regulation": {
             "title": "Contrôle de la Parafiscalité Annuelle",
             "items": [
-              "Vérification annuelle de la paie, des calculs des rétenues fiscale et sociales sur salaires",
+              "Vérification annuelle de la paie, des calculs des rétenues fiscales et sociales sur salaires",
               "Vérification du régime fiscal des accessoires de salaires, des avantages en nature et des obligations patronales",
               "Etc..."
             ]
@@ -182,7 +182,7 @@
           "dsf_tax_review": {
             "title": "Contrôle Fiscal de la DSF",
             "items": [
-              "Contrôle du tableau des immobilisations et des provisions",
+              "Contrôle du tableau des amortissements et des provisions",
               "Bouclage de la TVA en fin d’exercice",
               "Exploitation des avantages fiscaux, contrôle des liquidations et dettes fiscales",
               "Appréciation des risques fiscaux et recommandations"
@@ -208,7 +208,7 @@
           "transfer_pricing": {
             "title": "Prévention de la double imposition",
             "items": [
-              "Mise en place de votre politique de prix de transferts et securisation (rescrit fiscale)",
+              "Mise en place de votre politique de prix de transferts et securisation (rescrit fiscal)",
               "Accompagnement lors des contrôles fiscaux",
               "Proposition de l'arbitrage pour l'elimination de la double imposition"
             ]
@@ -245,7 +245,7 @@
               "items": [
                 "Suivi du contentieux devant la Direction Générale des Impôts (DGI, DGE, CRI)",
                 "Suivi du contentieux devant le Ministère des Finances (MINFI)",
-                "Procédure de transaction fiscale devant la DGI (Art.L125 du LPF de CGI)"
+                "Procédure de transaction fiscale devant la DGI (Art.L125 du LPF du CGI)"
               ]
             },
             "judicial_appeal": {
