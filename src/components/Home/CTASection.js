@@ -28,7 +28,7 @@ const CTASection = () => {
           rel="noopener noreferrer"
           className="bg-white text-gray-800 border border-gray-300 px-6 py-2 rounded-md shadow-sm hover:bg-gray-100 transition"
         >
-          {t("home.cta.contact")}
+          <span className="mr-2">📱</span>{t("home.cta.contact")}
         </a>
 
         <button className="bg-green-500 text-white px-6 py-2 rounded-md shadow-sm hover:bg-green-600 transition">
