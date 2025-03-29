@@ -2,8 +2,8 @@
   "navbar": {
     "home": "Accueil",
     "about": "À propos",
-    "permanent_assistance": "Assistance Permanente",
-    "temporary_assistance": "Assistance Ponctuelle"
+    "permanent_assistance": "Prestations Permanentes",
+    "temporary_assistance": "Prestations Ponctuelles"
   },
   "about": {
       "title": "À propos de BAC",
@@ -125,7 +125,7 @@
           "title": "Tenue de la paie et assistance",
           "items": [
             "Établissement des bulletins de paie du personnel",
-            "Déclarations des rétenues fiscales et sociales mensuelles et annuelles",
+            "Déclarations des rétenus fiscales et sociales mensuelles et annuelles",
             "Assistance au contrôle de la CNPS et de la main d’œuvre",
             "Accompagnement en droit du travail"
           ]
@@ -135,7 +135,7 @@
           "items": [
             "Réponses techniques aux questions orales ou écrites en matière de fiscalité",
             "Déclarations fiscales mensuelles, périodiques et annuelles",
-            "Avis professionels sur les opérations envisagées",
+            "Avis professionnels sur les opérations envisagées",
             "Gestion fiscale des particuliers"
           ]
         },
@@ -165,7 +165,7 @@
             "Tenue de la comptabilité sur demande",
             "Déclaration des impôts sur demande",
             "Fourniture d’autres services sur demande",
-            "Avantages fiscaux: reduction de 50% d'impôts pour les adhérents"
+            "Avantages fiscaux: réduction de 50% d'impôts pour les adhérents"
           ]
         }
       },
@@ -174,7 +174,7 @@
           "annual_tax_regulation": {
             "title": "Contrôle de la Parafiscalité Annuelle",
             "items": [
-              "Vérification annuelle de la paie, des calculs des rétenues fiscales et sociales sur salaires",
+              "Vérification annuelle de la paie, des calculs des rétenus fiscales et sociales sur salaires",
               "Vérification du régime fiscal des accessoires de salaires, des avantages en nature et des obligations patronales",
               "Etc..."
             ]
@@ -210,7 +210,7 @@
             "items": [
               "Mise en place de votre politique de prix de transferts et securisation (rescrit fiscal)",
               "Accompagnement lors des contrôles fiscaux",
-              "Proposition de l'arbitrage pour l'elimination de la double imposition"
+              "Proposition de l'arbitrage pour l'élimination de la double imposition"
             ]
           },
           "tax_disputes": {
@@ -233,7 +233,7 @@
               ]
             },
             "administrative_procedure": {
-              "title": "Suivi de la Procédure Administrative",
+              "title": "Gestion de la Procédure Administrative",
               "items": [
                 "Appréciation des prétentions de l’Inspecteur des Impôts",
                 "Rédaction des réponses aux chefs de redressements envisagés",
