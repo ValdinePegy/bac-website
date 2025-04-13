@@ -125,7 +125,7 @@
           "title": "Tenue de la paie et assistance",
           "items": [
             "Établissement des bulletins de paie du personnel",
-            "Déclarations des rétenus fiscales et sociales mensuelles et annuelles",
+            "Déclarations des retenue fiscales et sociales mensuelles et annuelles",
             "Assistance au contrôle de la CNPS et de la main d’œuvre",
             "Accompagnement en droit du travail"
           ]
@@ -174,7 +174,7 @@
           "annual_tax_regulation": {
             "title": "Contrôle de la Parafiscalité Annuelle",
             "items": [
-              "Vérification annuelle de la paie, des calculs des rétenus fiscales et sociales sur salaires",
+              "Vérification annuelle de la paie, des calculs des retenue fiscales et sociales sur salaires",
               "Vérification du régime fiscal des accessoires de salaires, des avantages en nature et des obligations patronales",
               "Etc..."
             ]
@@ -214,7 +214,7 @@
             ]
           },
           "tax_disputes": {
-            "title": "Assistance au Contrôle et/ Contentieux Fiscaux",
+            "title": "Assistance au Contrôle et au Contentieux Fiscal",
             "pieces_control": {
               "title": "Contrôle sur Pièces",
               "items": [
